@@ -41,11 +41,10 @@ SpriteBINGO is a specialized utility designed to bridge the gap between high-fid
 
 ## 📺 Video Tutorial
 
-<p align="center">
-  <video src="https://github.com/contactpyxelmorph-afk/spriteBINGO/raw/main/tutorial_final.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+
+
+https://github.com/user-attachments/assets/43d2bc11-976e-4930-9840-8fd53966a126
+
 
 ---
 **Developed by Pyxel Corp**
