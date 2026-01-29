@@ -24,7 +24,7 @@ SpriteBINGO is a specialized utility designed to bridge the gap between high-fid
 
 ### Step 2: GBS Preview
 1. Choose the best variation from the selected output folder.
-2. Run **Step 2** to generate your `tile_grid_atlas` and `palettes.json`.
+2. Run **Step 2** to generate your `tile_grid_atlas` , `palettes.json` and 'green preciew.png'.
 
 ---
 
