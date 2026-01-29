@@ -39,6 +39,10 @@ SpriteBINGO is a specialized utility designed to bridge the gap between high-fid
 * **Distribution:** While the software is free, we prefer that users download the official version from the original source to ensure they have the latest security and feature updates.
 * **Warranty:** Provided "as-is" under the MIT License.
 
+## 📺 Video Tutorial
+
+<video src="tutorial_small.mp4" width="100%" controls>
+
 ---
 **Developed by Pyxel Corp**
 *Built for the GBS Community.*
