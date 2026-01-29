@@ -23,7 +23,7 @@ SpriteBINGO is a specialized utility designed to bridge the gap between high-fid
 4. Run **Step 1** to generate optimized variations.
 
 ### Step 2: GBS Preview
-1. Choose the best variation from the `new_alg_remixes` folder.
+1. Choose the best variation from the selected output folder.
 2. Run **Step 2** to generate your `tile_grid_atlas` and `palettes.json`.
 
 ---
