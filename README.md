@@ -42,7 +42,7 @@ SpriteBINGO is a specialized utility designed to bridge the gap between high-fid
 ## 📺 Video Tutorial
 
 <p align="center">
-  <video src="https://github.com/contactpyxelmorph-afk/spriteBINGO/raw/main/tutorial_small.mp4">
+  <video src="https://github.com/contactpyxelmorph-afk/spriteBINGO/raw/master/tutorial_small.mp4">
     Your browser does not support the video tag.
   </video>
 </p>
