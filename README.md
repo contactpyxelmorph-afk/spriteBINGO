@@ -47,6 +47,11 @@ https://github.com/user-attachments/assets/43d2bc11-976e-4930-9840-8fd53966a126
 
 
 ---
+
+### 📄 Project Links
+
+* **Source Code:** [Pyxel_Tile.py (main branch)](https://github.com/contactpyxelmorph-afk/spriteBINGO/blob/main/spriteBINGO_app.py) *
+
 **Developed by Pyxel Corp**
 *Built for the GBS Community.*
 
